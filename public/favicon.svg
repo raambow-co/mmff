@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#FAF8F3" />
+  <!-- Left Peak (Burgundy / Royal Red) -->
+  <polygon points="12,46 26,16 33,26 26,36 19,46" fill="#4E082C" />
+  <polygon points="19,46 26,36 33,46" fill="#6B1D3D" />
+  <!-- Right Peak (Muted Champagne Gold) -->
+  <polygon points="31,26 38,16 52,46 45,46 38,36" fill="#B08A5A" />
+  <polygon points="31,46 38,36 45,46" fill="#C4A072" />
+</svg>
